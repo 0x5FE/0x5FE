@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Hello! 👋</h2>
 
-<!--
-**0x5FE/0x5FE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align = "right" src = "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width = '200' />
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p><em>I'm a programmer, I worked on some projects and I didn't use framework. I prefer to have control over how I develop my code;</em></p>
+
+ <p><em>Information Security Enthusiast</em><p>
+
+ <p><em>I like to read books;</em><p>
+
+ <p><em>I also have a blog and I like to write there.</em><p>
+
+ <p><em>I have some certifications like Microsoft SC900, Commvault, Checkpoint, Hacker Associate and etc...</em><p>
+
+ <p><em>Sometimes I'm in shape and sometimes I'm not.</em><p>
+
+
+  #### “The gap between theory and practice is not as wide as it is, theory in practice.” - Unknown author 
+
+
+
+
+
