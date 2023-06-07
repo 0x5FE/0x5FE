@@ -8,8 +8,6 @@
 
  <p><em>Information Security Enthusiast</em><p>
  
- <p><em>I also have a blog and I like to write there.</em><p>
-
  <p><em>Sometimes I'm in shape and sometimes I'm not.</em><p>
 
   #### “The gap between theory and practice is not as wide as it is, theory in practice.” - Unknown author 
