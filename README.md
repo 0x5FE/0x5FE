@@ -12,10 +12,7 @@
 
  <p><em>I also have a blog and I like to write there.</em><p>
 
- <p><em>I have some certifications like Microsoft SC900, Commvault, Checkpoint, Hacker Associate and etc...</em><p>
-
  <p><em>Sometimes I'm in shape and sometimes I'm not.</em><p>
-
 
   #### “The gap between theory and practice is not as wide as it is, theory in practice.” - Unknown author 
 
