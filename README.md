@@ -1,13 +1,9 @@
 <h2>Hello! 👋</h2>
 
-<img align = "right" src = "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width = '200' />
+- 🌱 I'm a programmer, I worked on some projects and I didn't use framework, I prefer to have control over how I develop my code.
+- ⚡ Sometimes I'm in shape and sometimes **I'm not.**
 
-<div align="center">
 
- <p><em>I'm a programmer, I worked on some projects and I didn't use framework. I prefer to have control over how I develop my code;</em></p>
-
- <p><em>Sometimes I'm in shape and sometimes I'm not.</em><p>
- 
  <h3 align="left">Some of my skills:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,7 +18,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;
+
  
+### Certifications:
 
-
+![](https://images.credly.com/size/95x95/images/79d2530b-44fb-4b71-a0bb-746e991166ae/CredlyBadges-v1.7-FINAL_Core-MSP.png)
+![](https://images.credly.com/size/95x95/images/6074e869-0140-4b23-a03d-a49839191e41/image.png)
+![](https://images.credly.com/size/95x95/images/fb9c8c5d-1b20-44d4-bf1a-717517f655b4/image.png)
+![](https://images.credly.com/size/95x95/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)
+![](https://images.credly.com/size/95x95/images/27579978-6a64-4b5c-a29b-4a4830f784d8/image.png)
 
