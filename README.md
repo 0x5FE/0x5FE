@@ -2,6 +2,7 @@
 
 - 🌱 I'm a programmer, I worked on some projects and I didn't use framework, I prefer to have control over how I develop my code.
 - 🌱 Computer Science Student at <a href="http:/github.com/Universidade-Livre">Free Brazilian University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 🌱 Degree in Defense Management and Cybersecurity<a href="https://www.uninter.com">Uninter</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 🌱 Information Security Enthusiast;
 - ⚡ Sometimes I'm in shape and sometimes **I'm not.**
 
