@@ -1,7 +1,5 @@
 <h2>Hello! 👋</h2>
 
-- 🌱 Degree in Defense Management and Cybersecurity<a href="https://www.uninter.com">Uninter</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 🌱computer network technician <a href="https://Professionalization and Technical Education Center">Professionalization and Technical Education Center</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 🌱 Information Security Enthusiast;
 - ⚡ Sometimes I'm in shape and sometimes **I'm not.**
 
