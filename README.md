@@ -2,6 +2,7 @@
 
 - 🌱 Information Security Enthusiast;
 - ⚡ Sometimes I'm in shape and sometimes **I'm not.**
+- ⚡ open-source enthusiast
 
 
  <h3 align="left">Some of my skills:</h3>
