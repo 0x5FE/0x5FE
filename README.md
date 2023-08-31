@@ -30,4 +30,6 @@
 ![](https://images.credly.com/size/95x95/images/40e09f26-1881-4044-b85d-3710126228a2/image.png)
 ![](https://images.credly.com/size/96x96/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png)
 ![](https://images.credly.com/size/96x96/images/6a5f3050-b673-4eeb-abfd-dbf6a1feab76/image.png)
+![](https://images.credly.com/size/100x100/images/2c3a47aa-45a1-420f-a79f-4d0fbb3e478a/image.png)
+
 
