@@ -1,8 +1,10 @@
 <h2>Hello! 👋</h2>
 
+- *I initially worked as a Full Stack Developer;*
 - 🌱 Information Security Enthusiast;
 - ⚡ Sometimes I'm in shape and sometimes **I'm not.**
 - ⚡ open-source enthusiast
+  
 
 
  <h3 align="left">Some of my skills:</h3>
