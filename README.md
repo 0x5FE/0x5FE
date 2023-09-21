@@ -2,6 +2,7 @@
 
 I have migrated my repositories [Here](https://codeberg.org/0x5FE)
 
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 
 ### Certifications:
