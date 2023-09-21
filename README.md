@@ -2,22 +2,8 @@
 
 I have migrated my repositories [Here](https://codeberg.org/0x5FE)
 
- <h3 align="left">Some of my skills:</h3>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white)&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;
-
- 
 ### Certifications:
 
 ![](https://images.credly.com/size/95x95/images/79d2530b-44fb-4b71-a0bb-746e991166ae/CredlyBadges-v1.7-FINAL_Core-MSP.png)
