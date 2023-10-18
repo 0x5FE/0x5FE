@@ -1,4 +1,4 @@
-<h2>Hello! 👋</h2>
+<h2>"Ignorant people in Geometry are not admitted"</h2>
 
 # Give Up GitHub
 
