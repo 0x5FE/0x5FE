@@ -10,7 +10,7 @@
 ![](https://images.credly.com/size/100x100/images/6a5f3050-b673-4eeb-abfd-dbf6a1feab76/image.png)
 ![](https://images.credly.com/size/100x100/images/1b368a64-0696-47f2-8f75-fa294d681bb5/thumbnail__52_.png)
 ![](https://images.credly.com/size/100x100/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png)
-
+![](https://images.credly.com/size/100x100/images/79d2530b-44fb-4b71-a0bb-746e991166ae/CredlyBadges-v1.7-FINAL_Core-MSP.png)
 
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
