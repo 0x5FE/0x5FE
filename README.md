@@ -1,6 +1,3 @@
-
-<h2>"Let no one ignorant of geometry enter" - Plato or unknown</h2>
-
 ⚡ Information Security Enthusiast, constantly seeking to expand my knowledge in this field.
 
 ⚡ I have a passion for open-source
