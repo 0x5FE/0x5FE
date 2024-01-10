@@ -1,5 +1,7 @@
 ⚡ Information Security Enthusiast, constantly seeking to expand my knowledge in this field.
 
+⚡I am currently a postgraduate student.
+
 ⚡ I have a passion for open-source
 
 
