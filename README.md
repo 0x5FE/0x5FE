@@ -1,13 +1,4 @@
-⚡ Information Security Enthusiast, constantly seeking to expand my knowledge in this field.
-
-⚡I am currently a postgraduate student.
-
-⚡ I have a passion for open-source
-
-
 ### 🏅Certifications:
-
-
 
 ![](https://images.credly.com/size/100x100/images/2c3a47aa-45a1-420f-a79f-4d0fbb3e478a/image.png)
 ![](https://images.credly.com/size/100x100/images/6074e869-0140-4b23-a03d-a49839191e41/image.png)
@@ -19,6 +10,15 @@
 ![](https://images.credly.com/size/100x100/images/4dd83ff2-6555-464c-a6e9-2e73bce4d572/image.png)
 
 
-
-
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+
+
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+
+You can now find this project at [gitea](https://gitea.com/0x5FE) instead.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
