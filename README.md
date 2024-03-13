@@ -13,11 +13,10 @@
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 
-This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+- This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-You can now find this project at [gitea](https://gitea.com/0x5FE) instead.
+# You can now find this project at [gitea](https://gitea.com/0x5FE) instead.
 
-Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+- Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
-Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
-
+- Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
