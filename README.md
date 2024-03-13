@@ -21,4 +21,3 @@ Any use of this project's code by GitHub Copilot, past or present, is done witho
 
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
