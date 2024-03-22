@@ -9,5 +9,3 @@
 ![](https://images.credly.com/size/100x100/images/b497d307-a9ce-4221-8cc0-39bb23b823e0/image.png)
 ![](https://images.credly.com/size/100x100/images/4dd83ff2-6555-464c-a6e9-2e73bce4d572/image.png)
 
-
-# You can now find this project also at [gitea](https://gitea.com/0x5FE) instead.
